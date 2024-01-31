@@ -2,10 +2,10 @@
 
 
 ## Sobre o Projeto
-Projeto desenvolvido como exercício de conclusão do módulo 2, Bootcamp Generation Brasil.
+Projeto desenvolvido como exercício de conclusão do módulo 2 do Bootcamp Generation Brasil.
 O projeto consiste em uma Farmácia com a capacidade de manipular os dados dos Produtos. Nesta farmacia, os produtos estão classificados por Categoria.
 
-Todas as etapas do projetos estão disponíveis nas branchs, lá estão todas as etapas do projeto.
+Todas as etapas do projetos estão disponíveis nas branchs.
 
 
 ## Como executar

@@ -9,7 +9,7 @@ Todas as etapas do projetos estão disponíveis nas branchs.
 
 
 ## Como executar
-- Abra o terminal e execute o comando: " git clone --single-branch --branch Swagger https://github.com/EduFreitas2/CRUD-Farmacia.git " para clonar a branch com o projeto completo.
+- Abra o terminal e execute o comando: " git clone https://github.com/EduFreitas2/CRUD-Farmacia.git " para clonar o projeto completo.
 - Importe o projeto Maven em seu STS
 - Execute o projeto pela janela Boot Dashboard
 

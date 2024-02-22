@@ -1,9 +1,9 @@
-# Projeto Farmacia Generation Brasil
+# Projeto Farmácia Generation Brasil
 
 
 ## Sobre o Projeto
 Projeto desenvolvido como exercício de conclusão do módulo 2 do Bootcamp Generation Brasil.
-O projeto consiste em uma Farmácia com a capacidade de manipular os dados dos Produtos. Nesta farmacia, os produtos estão classificados por Categoria.
+O projeto consiste em uma Farmácia com a capacidade de manipular os dados dos Produtos. Nesta farmácia, os produtos estão classificados por Categoria.
 
 Todas as etapas do projetos estão disponíveis nas branchs.
 
